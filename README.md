@@ -1,163 +1,231 @@
-# 🚀 DevOps Handbook
+# 🚀 DevOps Engineer Journey – 180 Days (Zero → Job Ready)
 
-> **A Complete 180-Day Journey from Beginner to Job-Ready DevOps Engineer**
-
-![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
-![Learning](https://img.shields.io/badge/Learning-DevOps-success)
-![Platform](https://img.shields.io/badge/Platform-Linux-orange)
-![Version](https://img.shields.io/badge/Version-1.0-green)
+> A structured, hands-on DevOps learning system documenting my 180-day journey from fundamentals to production-level DevOps engineering.
 
 ---
 
-# 📖 About This Repository
+# 👤 About Me
 
-Welcome to my **DevOps Handbook**.
+I am building a strong foundation in:
 
-This repository documents my complete **180-day journey** to become a professional DevOps Engineer. Instead of simply completing courses, I am building a structured knowledge base that includes theory, practical labs, interview preparation, and real-world examples.
+* Linux Administration 🐧
+* DevOps Engineering ⚙️
+* Cloud Platforms (AWS/Azure) ☁️
+* Automation & Scripting 🧠
+* CI/CD Pipelines 🚀
+* Docker & Kubernetes 📦
+* Infrastructure as Code (Terraform) 🏗️
 
-Every topic in this repository is learned through hands-on practice and documented in a professional format.
-
-This handbook will continue to grow every day until the completion of the roadmap.
-
----
-
-# 🎯 Objectives
-
-By the end of this journey, I aim to:
-
-* Master Linux Administration
-* Become proficient in Git and GitHub
-* Learn Shell Scripting
-* Understand Computer Networking
-* Master Docker and Containers
-* Learn Kubernetes
-* Build CI/CD Pipelines
-* Learn Infrastructure as Code using Terraform
-* Gain Cloud experience with AWS
-* Learn Monitoring and Logging
-* Understand DevSecOps concepts
-* Build real-world DevOps projects
-* Prepare for DevOps interviews
-* Build a professional GitHub portfolio
+This repository is my **daily learning log, lab environment, and portfolio proof of skills**.
 
 ---
 
-# 📅 Learning Roadmap
+# 🎯 Goal of This Repository
 
-| Phase    | Topics                                 | Status        |
-| -------- | -------------------------------------- | ------------- |
-| Phase 1  | Linux Fundamentals                     | ✅ In Progress |
-| Phase 2  | Shell Scripting                        | ⏳ Planned     |
-| Phase 3  | Networking                             | ⏳ Planned     |
-| Phase 4  | Git & GitHub Advanced                  | ⏳ Planned     |
-| Phase 5  | Docker                                 | ⏳ Planned     |
-| Phase 6  | Kubernetes                             | ⏳ Planned     |
-| Phase 7  | CI/CD                                  | ⏳ Planned     |
-| Phase 8  | Terraform                              | ⏳ Planned     |
-| Phase 9  | AWS Cloud                              | ⏳ Planned     |
-| Phase 10 | Monitoring & Logging                   | ⏳ Planned     |
-| Phase 11 | DevSecOps                              | ⏳ Planned     |
-| Phase 12 | Final Projects & Interview Preparation | ⏳ Planned     |
+To become a **Job-Ready DevOps Engineer** in 180 days by mastering:
+
+* Linux System Administration
+* Git & GitHub Workflows
+* Shell Scripting & Automation
+* Cloud Fundamentals (AWS)
+* CI/CD Pipelines
+* Docker & Containerization
+* Kubernetes Orchestration
+* Infrastructure as Code (Terraform)
+* Monitoring & Logging
+* Real-world DevOps Projects
 
 ---
 
-# 📂 Repository Structure
+# 🧠 180-Day Learning Roadmap
+
+## 📌 Phase 1: Linux & Foundations (Day 1–30)
+
+* Linux Basics
+* File System & Permissions
+* Users & Groups
+* Process Management
+* Package Management
+* Shell Basics
+* Networking Basics
+* Git & GitHub
+
+---
+
+## 📌 Phase 2: Scripting & Automation (Day 31–60)
+
+* Shell Scripting (Bash)
+* Automation Scripts
+* Cron Jobs
+* System Monitoring Scripts
+* Log Parsing
+* Error Handling in Scripts
+
+---
+
+## 📌 Phase 3: Cloud Fundamentals (Day 61–90)
+
+* AWS Core Services (EC2, S3, IAM)
+* Networking in Cloud (VPC)
+* Security Groups & IAM Roles
+* CLI & SDK usage
+* Basic Cloud Architecture
+
+---
+
+## 📌 Phase 4: DevOps Tools (Day 91–120)
+
+* Docker (Containers)
+* Docker Compose
+* Kubernetes Basics
+* Helm Charts
+* Container Orchestration
+
+---
+
+## 📌 Phase 5: CI/CD & Automation (Day 121–150)
+
+* Jenkins / GitHub Actions
+* Build Pipelines
+* Deployment Automation
+* Testing Pipelines
+* Release Strategies
+
+---
+
+## 📌 Phase 6: Infrastructure as Code (Day 151–165)
+
+* Terraform Basics
+* Infrastructure Automation
+* State Management
+* AWS + Terraform Integration
+
+---
+
+## 📌 Phase 7: Advanced DevOps (Day 166–180)
+
+* Monitoring (Prometheus, Grafana)
+* Logging (ELK Stack)
+* High Availability Systems
+* Scaling Applications
+* Real-world DevOps Projects
+
+---
+
+# 📁 Repository Structure
 
 ```text
 DevOps-Handbook/
 │
-├── README.md
-├── CHANGELOG.md
-├── TABLE_OF_CONTENTS.md
+├── Day-01/                # Linux Basics
+├── Day-02/                # Linux Core (Permissions, Processes, Users)
+├── Day-03/                # Shell Scripting (coming)
+├── Day-XX/                # Daily learning logs (180 days)
 │
-├── Day-01/
-├── Day-02/
+├── CheatSheets/           # Quick command references
+├── Interview/             # Interview Q&A preparation
+├── Projects/              # Real-world DevOps projects
+├── Resources/             # Learning materials
 │
-├── CheatSheets/
-├── Interview/
-├── Projects/
-└── Resources/
+├── README.md              # This file
+└── TABLE_OF_CONTENTS.md   # Navigation guide
 ```
 
 ---
 
-# 📚 Documentation Style
+# 🧪 What This Repo Contains
 
-Each topic in this handbook follows a consistent structure:
-
-* Overview
-* Learning Objectives
-* Theory
-* Real-World Examples
-* Commands and Explanations
-* Practical Labs
-* Best Practices
-* Common Mistakes
-* Interview Questions
-* Practice Exercises
-* Summary
-* Revision Notes
+✔ Daily Linux practice labs
+✔ Real DevOps commands & explanations
+✔ Interview preparation questions
+✔ Scenario-based troubleshooting
+✔ Hands-on projects
+✔ Cheat sheets for revision
+✔ Step-by-step 180-day progression
 
 ---
 
-# 💻 Tools Used
+# 🔥 Current Progress
 
-* Ubuntu (WSL)
-* Visual Studio Code
-* Git
-* GitHub
-* Bash
-* Markdown
-
-More tools will be added as the journey progresses.
+| Day       | Status        |
+| --------- | ------------- |
+| Day 1     | ✅ Completed   |
+| Day 2     | ✅ Completed   |
+| Day 3     | ⏳ Upcoming    |
+| Day 4–180 | ⏳ In Progress |
 
 ---
 
-# 📈 Progress Tracker
+# 🧠 Key Learning Philosophy
 
-## Completed
+> “I don’t just learn DevOps tools — I build systems, automate workflows, and solve real problems.”
 
-* Day 1 – Linux Basics and Git Fundamentals ✅
-* Day 2 – Linux Permissions, Users, Processes, Package Management, Environment Variables ✅
+This journey focuses on:
 
-## Upcoming
-
-* Day 3 – Linux Networking
-* Day 4 – Shell Scripting Basics
-* Day 5 – Advanced Linux Commands
+* Hands-on practice over theory
+* Real-world scenarios
+* Troubleshooting mindset
+* Automation-first thinking
 
 ---
 
-# 🎯 Repository Goals
+# 🚀 Projects Coming Soon
 
-This repository is designed to serve as:
-
-* My personal DevOps knowledge base
-* A revision guide
-* A practical learning journal
-* An interview preparation resource
-* A GitHub portfolio showcasing consistent learning
-
----
-
-# 🤝 Acknowledgements
-
-This handbook is created through consistent daily practice, hands-on labs, and structured mentoring using ChatGPT as a learning companion.
+* Linux Server Monitoring Tool
+* Automated Deployment Script
+* CI/CD Pipeline (GitHub Actions)
+* Dockerized Application Deployment
+* Kubernetes Cluster Deployment
+* Cloud Infrastructure Automation (Terraform)
 
 ---
 
-# 📌 Note
+# 💼 Why This Repository Matters
 
-This repository is a living document.
+This is not a tutorial repo.
 
-It will be updated regularly throughout the 180-day DevOps roadmap with new concepts, labs, projects, interview questions, and best practices.
+It is:
+
+* A **DevOps engineering portfolio**
+* A **proof of 180-day consistency**
+* A **job-ready skill showcase**
+* A **real-world system-building journey**
 
 ---
 
-# ⭐ Thank You
+# 📌 How to Use This Repo
 
-Thank you for visiting this repository.
+```bash
+# Clone repository
+git clone https://github.com/Bodigestanley/DevOps-Handbook.git
 
-If you are also learning DevOps, I hope these notes help you in your own learning journey.
+# Navigate
+cd DevOps-Handbook
 
-Happy Learning! 🚀
+# Explore daily folders
+ls Day-01
+ls Day-02
+```
+
+---
+
+# 📈 Commitment
+
+* 180 days of consistent learning
+* Daily hands-on practice
+* Continuous improvement
+* Real DevOps skill development
+
+---
+
+# 🏁 Final Goal
+
+> Become a **Job-Ready DevOps Engineer with strong Linux, Cloud, and Automation skills** ready for MNC/FAANG-level interviews.
+
+---
+
+# ⭐ If You Found This Useful
+
+Give this repository a ⭐ and follow my journey.
+
+---
